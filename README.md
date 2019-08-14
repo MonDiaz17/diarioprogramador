@@ -1,0 +1,2 @@
+# diarioprogramador
+ejercicio 2 
